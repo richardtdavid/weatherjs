@@ -9,10 +9,10 @@ this.apiKey = 'insert api key here';
 ```
 
 ## Author 
-___
 ##### Richard David
-## Version
 ___
+## Version
 ##### 0.0.0.1
+___
 ## License 
 ##### This project is licensed under MIT License 
